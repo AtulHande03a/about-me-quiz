@@ -32,6 +32,14 @@ var questions = [{
 },{
   question: "Whats is his native state?",
   answer: "Maharashtra"
+},
+{
+  question: "Is Atul a foody?",
+  answer: "Yes"
+},
+{
+  question: "What does he loves to eat?",
+  answer: "Idli-Dosa-Sambar"
 }
 ];
 
